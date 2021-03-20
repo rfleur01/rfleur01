@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Rodshell 👋
+
+An aspiring Full-stack developer, looking to create software for the people.
+
+With a background in Consulting, I value creating meaningful and memorable experiences and building impactful solutions.
 
 <!--
 **rfleur01/rfleur01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
