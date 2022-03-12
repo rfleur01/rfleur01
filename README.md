@@ -1,6 +1,6 @@
 ### Hi there, I'm Rodshell 👋
 
-An aspiring Full-stack developer, looking to create software for the people.
+An aspiring Full-stack engineer, looking to create software for The People.
 
 With a background in Consulting, I value creating meaningful and memorable experiences and building impactful solutions.
 
